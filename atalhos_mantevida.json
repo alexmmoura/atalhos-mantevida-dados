@@ -1,0 +1,729 @@
+{
+  "version": "2026.09.16.1",
+  "updatedAt": "2026-09-16T12:00:00-03:00",
+  "folders": [
+    "🧪 ex",
+    "👨‍⚕️ me"
+  ],
+  "shortcuts": [
+    {
+      "id": "exames-1",
+      "trigger": "\\1",
+      "description": "1° CONSULTA DE FONO",
+      "text": "50000586",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-1a",
+      "trigger": "\\1a",
+      "description": "1° CONSULTA DE TERAPIA",
+      "text": "50001221",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-aba",
+      "trigger": "\\aba",
+      "description": "ABDOME TOTAL",
+      "text": "40901122",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-abb",
+      "trigger": "\\abb",
+      "description": "US ABDOME INFERIOR MASCULINO",
+      "text": "40901173",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-abd",
+      "trigger": "\\abd",
+      "description": "ABDOME SUPERIOR",
+      "text": "40901130",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-art",
+      "trigger": "\\art",
+      "description": "ARTICULAÇÃO",
+      "text": "40901220",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-axi",
+      "trigger": "\\axi",
+      "description": "AXILAS/ESTRUTURAS",
+      "text": "40901211",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-bol",
+      "trigger": "\\bol",
+      "description": "US TIREOIDE",
+      "text": "40901203",
+      "folder": "🧪 ex",
+      "source": "mantevida",
+      "tags": [
+        "tireoide",
+        "bolsa escrotal",
+        "orgaos",
+        "órgãos",
+        "partes moles",
+        "us tireoide"
+      ],
+      "clinics_available": [
+        "ceilandia",
+        "taguatinga"
+      ],
+      "prepInfo": "Recolher o pedido com 10 dias de antecedência na recepção."
+    },
+    {
+      "id": "exames-caa",
+      "trigger": "\\caa",
+      "description": "CONSULTA CARDIOLOGIA + ELETROCARDIO",
+      "text": "98007076",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-car",
+      "trigger": "\\car",
+      "description": "CAROTIDAS E VERTEBRAS",
+      "text": "40901360",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-coa",
+      "trigger": "\\coa",
+      "description": "CONSULTA EM CONSULTORIO",
+      "text": "12272",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-con",
+      "trigger": "\\con",
+      "description": "CONTAGEM DE FOLICULOS",
+      "text": "40901319",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-doa",
+      "trigger": "\\doa",
+      "description": "DOPPLER",
+      "text": "40901475",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-dop",
+      "trigger": "\\dop",
+      "description": "USG DOPPLER VENOSO INFERIOR",
+      "text": "40901483",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-eco",
+      "trigger": "\\eco",
+      "description": "ECODOPPLERCARDIOGRAMA TRANSTORÁCICO",
+      "text": "40901106",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-ela",
+      "trigger": "\\ela",
+      "description": "ELETROENCEFALOGRAMA DE ROTINA",
+      "text": "40103170",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-elb",
+      "trigger": "\\elb",
+      "description": "ELETROCARDIOGRAMA",
+      "text": "40101010",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-elc",
+      "trigger": "\\elc",
+      "description": "ELETROCEFALOGRAMA PROLONGADO",
+      "text": "40103200",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-ele",
+      "trigger": "\\ele",
+      "description": "ELETROENCEFALOGRAMA (SONO E VIGÍLIA)",
+      "text": "40103234",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-ena",
+      "trigger": "\\ena",
+      "description": "ELETROENCEFALOGRAMA COM MAPEAMENTO CEREBRAL",
+      "text": "40103196",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-enc",
+      "trigger": "\\enc",
+      "description": "ELETROENCEFALOGRAMA DE ROTINA",
+      "text": "4010370",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-gi",
+      "trigger": "\\gi",
+      "description": "CONSULTA GINECOLOGIA + PREVENTIVO",
+      "text": "98007084",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-hol",
+      "trigger": "\\hol",
+      "description": "HOLTER 24 HORAS",
+      "text": "20102011",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-imp",
+      "trigger": "\\imp",
+      "description": "IMPEDANCIOMETRIA",
+      "text": "40103439",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-mam",
+      "trigger": "\\mam",
+      "description": "MAMAS",
+      "text": "40901114",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-map",
+      "trigger": "\\map",
+      "description": "MAPA 24 HORAS",
+      "text": "20102038",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-nut",
+      "trigger": "\\nut",
+      "description": "CONSULTA NUTRIÇÃO + BIOIMPEDANCIA",
+      "text": "98007068",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-org",
+      "trigger": "\\org",
+      "description": "ORGAOS",
+      "text": "40901203",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-p30",
+      "trigger": "\\p30",
+      "description": "P300",
+      "text": "40103560",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-pac",
+      "trigger": "\\pac",
+      "description": "PAC",
+      "text": "40103897",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-pel",
+      "trigger": "\\pel",
+      "description": "ULTRASSONOGRAFIA PÉLVICA",
+      "text": "40901181",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-pre",
+      "trigger": "\\pre",
+      "description": "PREVENTIVO",
+      "text": "41301188",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-pro",
+      "trigger": "\\pro",
+      "description": "PROSTATA",
+      "text": "40901750",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-ret",
+      "trigger": "\\ret",
+      "description": "RETIRADA DE DIU",
+      "text": "15410",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-tes",
+      "trigger": "\\tes",
+      "description": "TESTE ERGOMÉTRICO",
+      "text": "40101045",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-tra",
+      "trigger": "\\tra",
+      "description": "ULTRASSONOGRAFIA TRANSVAGINAL",
+      "text": "40901300",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-via",
+      "trigger": "\\via",
+      "description": "VIAS URINARIAS",
+      "text": "40901769",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ale",
+      "trigger": "\\ale",
+      "description": "ALESSANDRA FIGUEIREDO FREITAS - CRM/DF 11367 - Cardiologia",
+      "text": "11367",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ama",
+      "trigger": "\\ama",
+      "description": "AMANDA SATIE FAUSTINO OKADA - CRM/DF 29946 - Clínica Médica",
+      "text": "29946",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ana",
+      "trigger": "\\ana",
+      "description": "ANA CAROLINA DE SOUZA E SILVA - CRN/DF 10571 - Nutricionista",
+      "text": "10571",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-anb",
+      "trigger": "\\anb",
+      "description": "ANDRE DEVECCHI - CRM/DF 21863 - Cardiologia",
+      "text": "21863",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-and",
+      "trigger": "\\and",
+      "description": "ANDREA SCHAPPO - CRM/DF 12542 - Eletroencefalograma",
+      "text": "12542",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-bre",
+      "trigger": "\\bre",
+      "description": "BRENDA FONTINELLE - CRFA 13363 - PAC",
+      "text": "13363",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-cai",
+      "trigger": "\\cai",
+      "description": "CAIO CESAR GUEDES CARDOSO - CRM/DF 26026 - Ginecologia",
+      "text": "26026",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-cah",
+      "trigger": "\\cah",
+      "description": "CARLOS HENRIQUE ORMONDE MENDES - CRM/DF 19930 - Urologia",
+      "text": "19930",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-col",
+      "trigger": "\\col",
+      "description": "COLETTE CAMARA OMOTOSHO - CRM/DF 28863 - Ginecologia",
+      "text": "28863",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-dan",
+      "trigger": "\\dan",
+      "description": "DANIEL BRAGA DE QUEIROZ DUARTE COSTA - CRM/DF 14099 - Nutricionista",
+      "text": "14099",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-di",
+      "trigger": "\\di",
+      "description": "DINEY SOARES TORRES DE ALBUQUERQUE - CRM/DF 10427 - Ginecologia",
+      "text": "10427",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-edu",
+      "trigger": "\\edu",
+      "description": "EDUARDO GOMES DE SOUZA - CRM/DF 18077 - Urologia",
+      "text": "18077",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-eln",
+      "trigger": "\\eln",
+      "description": "ELENA GARCIA ORTA - CRM/DF 14809 - Psiquiatria",
+      "text": "14809",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-elz",
+      "trigger": "\\elz",
+      "description": "ELZA MARIA OLIVEIRA TEIXEIRA DEVECCHI - CRM/DF 21864 - Dermatologia",
+      "text": "21864",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-fra",
+      "trigger": "\\fra",
+      "description": "FRANCISCO FLAVIANO ANDRIOLA LEITE - CRM/DF 8224 - Cardiologia",
+      "text": "8224",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-gui",
+      "trigger": "\\gui",
+      "description": "GUILHERME GARCIA GALETI - CRM/DF 14116 - Gastroenterologia",
+      "text": "14116",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-hec",
+      "trigger": "\\hec",
+      "description": "HECTOR RODRIGUEZ ALONSO - CRM/DF 26266 - Cardiologia",
+      "text": "26266",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-hud",
+      "trigger": "\\hud",
+      "description": "HUDSON HIROSHI OKANO - CRM/DF 13693 - Mastologia",
+      "text": "13693",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-isa",
+      "trigger": "\\isa",
+      "description": "ISADORA MATOS LEITE MELO - CRM/DF 22800 - Ginecologia",
+      "text": "22800",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-isb",
+      "trigger": "\\isb",
+      "description": "ISAURA BERQUO DE SIQUEIRA - CRM/DF 16981 - Ecodopplercardiograma",
+      "text": "16981",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-joab",
+      "trigger": "\\joab",
+      "description": "JOANE BARBOSA CORREIA - CRM/DF 34109 - Geriatria",
+      "text": "34109",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-joa",
+      "trigger": "\\joa",
+      "description": "JOAO MARCOS MONTEIRO RAMOS - CRM/DF 24831 - Cirurgia Geral",
+      "text": "24831",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-jul",
+      "trigger": "\\jul",
+      "description": "JULIO CESAR SANTOS DE MACEDO - CRM/DF 10329 - Clínica Médica",
+      "text": "10329",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ken",
+      "trigger": "\\ken",
+      "description": "KENYA PATRICIA AMARAL TELES - CRN/DF 8616 - Nutricionista",
+      "text": "8616",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-lua",
+      "trigger": "\\lua",
+      "description": "LUCAS GONCALVES FRIAS - CRM/DF 35416 - Clínica Médica",
+      "text": "35416",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-lub",
+      "trigger": "\\lub",
+      "description": "LUCAS ANDRADE DA COSTA - CRM/DF 29109 - Dermatologia",
+      "text": "29109",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-luc",
+      "trigger": "\\luc",
+      "description": "LUCAS BARBOSA - CRM/DF 22935 - Teste Ergométrico",
+      "text": "22935",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-lui",
+      "trigger": "\\lui",
+      "description": "LUIS ALBERTO FUENTES ZAMBRANO - CRM/DF 23873 - Cardiologia",
+      "text": "23873",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-mun",
+      "trigger": "\\mun",
+      "description": "MUNIR MARCUS BESSA - CRM/DF 7556 - Ortopedia e Traumatologia",
+      "text": "7556",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-nat",
+      "trigger": "\\nat",
+      "description": "NATHALIA ALVES DAS NEVES - CRN/DF 13320 - Nutricionista",
+      "text": "13320",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-pau",
+      "trigger": "\\pau",
+      "description": "PAULO HENRIQUE LEMOS PIGNATARIO - CRM/DF 14501 - Mastologia",
+      "text": "14501",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ped",
+      "trigger": "\\ped",
+      "description": "PEDRO RUBEM FRAZAO ALEXANDRE - CRM/DF 30251 - Psiquiatria",
+      "text": "30251",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-raf",
+      "trigger": "\\raf",
+      "description": "RAFAEL PACELLI FERREIRA SALLUM - CRM/DF 20556 - Pediatria",
+      "text": "20556",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ram",
+      "trigger": "\\ram",
+      "description": "RAMON REVUELTA TRUJILLO - CRM/DF 23818 - Endocrinologia",
+      "text": "23818",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-reg",
+      "trigger": "\\reg",
+      "description": "REGINA MARA DOS SANTOS CALDEIRA - CRM/DF 5801 - Neurologia",
+      "text": "5801",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ren",
+      "trigger": "\\ren",
+      "description": "RENATA PEREIRA CAIXETA - CRM/DF 20255 - Endocrinologia",
+      "text": "20255",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-rob",
+      "trigger": "\\rob",
+      "description": "ROBERTO RAMALHO DE ANDRADE MELO - CRM/DF 22799 - Ginecologia",
+      "text": "22799",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ron",
+      "trigger": "\\ron",
+      "description": "RONIVALDO CAVALCANTE DOS SANTOS - CRM/DF 20411 - Psiquiatria",
+      "text": "20411",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-ros",
+      "trigger": "\\ros",
+      "description": "ROSA PORTUGAL GUIMARÃES - CRM/DF 25493 - Clínica Médica",
+      "text": "25493",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-sau",
+      "trigger": "\\sau",
+      "description": "SAULO RIBEIRO CUNHA - CRM/DF 15514 - Angiologia",
+      "text": "15514",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-val",
+      "trigger": "\\val",
+      "description": "VALDIR FAGUNDES - CRM/DF 8332 - Ortopedia e Traumatologia",
+      "text": "8332",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-vit",
+      "trigger": "\\vit",
+      "description": "VITOR GARCEZ CLAPP - CRM/DF 24479 - Pediatria",
+      "text": "24479",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-won",
+      "trigger": "\\won",
+      "description": "WON KYUNG KIM - CRM/DF 7826 - Gastroenterologia",
+      "text": "7826",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "medicos-yar",
+      "trigger": "\\yar",
+      "description": "YARENIS PUPO - CRM/DF 30390 - Ultrassonografia",
+      "text": "30390",
+      "folder": "👨‍⚕️ me",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-adv1",
+      "trigger": "\\adv1",
+      "description": "Audiometria vocal 1",
+      "text": "40103099",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-adv2",
+      "trigger": "\\adv2",
+      "description": "Audiometria vocal 2",
+      "text": "40103102",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-adt",
+      "trigger": "\\adt",
+      "description": "Audiometria tonal",
+      "text": "40103072",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-bioimpedencia",
+      "trigger": "\\bioimpedencia",
+      "description": "Bioimpedência",
+      "text": "41301048",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-dpc",
+      "trigger": "\\dpc",
+      "description": "Doppler Colorido De Órgão Ou Estrutura Isolada",
+      "text": "40901386\n",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    },
+    {
+      "id": "exames-bera",
+      "trigger": "\\bera",
+      "description": "Audiometria De Tronco Cerebral (Pea) Bera",
+      "text": "40103064\n",
+      "folder": "🧪 ex",
+      "source": "mantevida"
+    }
+  ],
+  "clinics": [
+    {
+      "id": "ceilandia",
+      "label": "Clínica Ceilândia"
+    },
+    {
+      "id": "taguatinga",
+      "label": "Clínica Taguatinga"
+    }
+  ]
+}
